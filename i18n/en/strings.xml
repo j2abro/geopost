@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="geowin">Geo Run</string>	
+	<string name="settings">Geo Settings</string>
+	<string name="openWindow">Open New Window</string>
+	<string name="newWindow">New Window</string>
+</resources>
