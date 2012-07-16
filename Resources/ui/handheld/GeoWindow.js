@@ -12,7 +12,7 @@ function GeoWindow(title) {
 	
 	
 	var button = Ti.UI.createButton({
-		borderColor: "blue",
+		borderColor:  "blue",
 		height:44,
 		width:200,
 		title:"Get Location",
